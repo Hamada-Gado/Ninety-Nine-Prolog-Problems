@@ -3,8 +3,8 @@
 % palindrome(L) :- checks if list L is a palindrome
 %       (list)
 
-% store first element and rest of list except last element then compare
-% and do it again with the rest of the list that was stored.
+% palindrome(L1, L2, X) :- X is the first element in L1 and L2 is the rest of list L1 repeat until last element then compare them and do it again with L2.
+%       (list, list, element)
 
 % Note: this was solved without using built-in predict reverse
 % so, alternative solution is: palindrome(L) :- reverse(L,L). -_-
