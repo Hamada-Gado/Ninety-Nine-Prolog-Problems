@@ -5,7 +5,7 @@
 `Solved questions have ✅ beside, skipped or not solved have ❌ beside them, otherwise they are not solved yet.`
 
 * Lists
-    * 1.01 ~ 1.07 ✅
+    * 1.01 ~ 1.08 ✅
 * Arithmetic
 * Logic and Codes
 * Binary Trees
