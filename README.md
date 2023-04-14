@@ -7,8 +7,10 @@
 * Lists
     * 1.01 ~ 1.13 ✅
 * Arithmetic
+    * 2.01 ~ 2.01 ✅
 * Logic and Codes
 * Binary Trees
+    * 4.01 ~ 4.02 ✅
 * Multiway Trees
 * Graphs
 * Miscellaneous
