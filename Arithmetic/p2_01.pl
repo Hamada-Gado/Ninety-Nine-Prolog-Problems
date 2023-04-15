@@ -5,8 +5,8 @@
 
 
 is_prime(Number) :- 
-    Number > 2,
-    Divisor is Number -1,
+    Number >= 2,
+    Divisor is Number - 1,
     check_prime(Number, Divisor), !.
 
 check_prime(_, 1).
