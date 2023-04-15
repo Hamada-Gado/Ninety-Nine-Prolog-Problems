@@ -7,7 +7,7 @@
 * Lists
     * 1.01 ~ 1.13 ✅
 * Arithmetic
-    * 2.01 ~ 2.01 ✅
+    * 2.01 ~ 2.11 ✅
 * Logic and Codes
 * Binary Trees
     * 4.01 ~ 4.02 ✅

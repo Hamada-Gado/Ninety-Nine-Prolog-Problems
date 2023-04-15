@@ -23,7 +23,7 @@ encode_direct([H|T], [[L, H]|X]) :-
 % the remaining list after removing them.
 %       (list, integer, list)
 
-find_occurences([H|T], N, R) :- find_occurences([H|T], H, 0, N, R).
+find_occurences([H|T], N, R) :- find_occurences([H|T], H, 0, N, R), !.
 
 find_occurences([], _, N, N, []).
 
